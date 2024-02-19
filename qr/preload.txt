@@ -1,0 +1,54 @@
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+<meta name="author" content="" />
+<meta name="description" content="Esta sería la descripción de mi PWA">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<!-- Font Awesome -->
+<meta name="theme-color" content="#2196F3">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="mobile-web-app-capable" content="yes">
+
+<!-- style bacoa ELIMINAR -->
+<link rel="apple-touch-icon" href="img/mainlogo.png">
+<link rel="apple-touch-startup-image" href="img/mainlogo.png">
+
+<!-- Favicon-->
+<link rel="shortcut icon" type="image/png" href="img/mainlogo.png">
+    
+<!-- manifest_010101 -->
+<link rel="manifest" href="./manifest.json">
+<link href="css/styles.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/cohete.css">
+<link rel="stylesheet" href="css/bg1.css">
+
+
+<!-- OPEN GRAFH____ Open Graph meta tags  --> 
+<!--  https://omni-30035.web.app/1ruu3/images/icons/-->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://istoyanov.onrender.com/" />
+<meta property="og:title" content="AAAAAAAAAA - BBBBBBBBBBB, CCCCCCCCCCCCCCCC, DDDDDDDDDDDDDDDDDDDDDDDDDD" />
+<meta property="og:description"
+content="FFFFFF GGGGGGG HHHHHHHHHHH IIIIII-JJJJJJJ KKKKKKKKK LLLLLLLLL MMMMMMMM NNNNNNNNN OOOOOOOOOOOO PPPPPPPP QQQQQQQQQ for clients and users." />
+
+<!-- 180x110 Image for Open Graph, Facebook and LinkedIn -->
+<meta property="og:image" content="https://omni-30035.web.app/1ruu3/img/logo-1200x630.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<!-- Twitter meta tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://omni-30035.web.app/1ruu3/img/logo-1200x630.jpg" />
+<meta name="twitter:title" content="RRRRRRR SSSSSSSSSSS TTTTTTTTT-UUUUUUUUU, Multimedia Designer, Pointillism Artist" />
+<meta name="twitter:creator" content="@vanchoy1" />
+<meta name="twitter:site" content="@vanchoy1" />
+<meta name="twitter:description"
+content="I am an aspiring VVVVVVVVVV stack Developer XXXXXXXXXX Design to offer the best YYYYYYY experience ZZZZZZZ clients and users." />
+
+
+<title>PWA Name App</title>  
+</head>

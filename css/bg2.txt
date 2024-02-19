@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+<!--
+<style type="text/css">
+body {
+	background-image: url(cafe-14.jpg);
+}
+</style>-->
+
+
+
+<!-- X horizontal _fila
+
+<style type="text/css">
+body {
+	background-image: url(cafe-14.jpg);
+	background-repeat: repeat-x;
+}
+</style>-->
+
+
+<!-- y vertical columna
+<style type="text/css">
+body {
+	background-image: url(file:///C|/Users/PUBLUCIDAD/Documents/tlv/public/2do/img/ico/chilling-cafe-14.jpg);
+	background-repeat: repeat-y;
+}
+</style>-->
+
+
+
+<!-- NO REPITE
+<style type="text/css">
+body {
+	background-image: url(file:///C|/Users/PUBLUCIDAD/Documents/tlv/public/2do/img/ico/chilling-cafe-14.jpg);
+	background-repeat: no-repeat;
+}
+</style>
+</head>-->
+
+<body background="file:///C|/Users/PUBLUCIDAD/Documents/tlv/public/2do/img/ico/chilling-cafe-14.jpg">
+</body>
+</html>
